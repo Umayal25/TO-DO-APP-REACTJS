@@ -49,3 +49,13 @@ Usage
 4.Categorization: Use the status dropdown to categorize tasks as "To-Do," "In Progress," or "Done."
 5. Persistence: Your tasks are automatically saved in local and session storage, so you can continue where you left off.
 6. Responsive Design:Enjoy a consistent experience on various devices.
+   
+SCREEN SHOTS:
+   ![image](https://github.com/Umayal25/TO-DO-APP-REACTJS/assets/92157178/63a3782a-5e15-44f3-9c35-f2f631fe8895)
+   ![image](https://github.com/Umayal25/TO-DO-APP-REACTJS/assets/92157178/3ae4b3a1-adda-4755-a052-376dfb16ed44)
+   ![image](https://github.com/Umayal25/TO-DO-APP-REACTJS/assets/92157178/953d450a-7ddc-4fb1-8dad-231c5e389279)
+   
+CHECK THE DEMO OF MY APP:https://umayalstodoapp.netlify.app/
+
+
+   
